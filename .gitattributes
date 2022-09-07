@@ -63,5 +63,4 @@
 #*.RTF   diff=astextplain
 
 ###############################################################################
-* linguist-vendored
-*.csharp linguist-vendored=false
+[SpaghettiOnline]/wwwroot/* linguist-vendored
